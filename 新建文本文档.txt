@@ -1,0 +1,10 @@
+tomcat安装需要jdk
+	JDK安装、java环境配置
+	https://www.cnblogs.com/mingforyou/archive/2013/03/31/2991543.html
+多个tomcat	
+	Window下同一台服务器部署多个tomcat服务
+	https://www.cnblogs.com/wryu/p/7327298.html
+	
+tomcat密码	
+	Tomcat的Manager显示403 Access Denied
+	https://www.cnblogs.com/mingforyou/archive/2013/03/31/2991543.html
